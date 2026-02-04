@@ -20,7 +20,7 @@ EXÉCUTION DU PROGRAMME :
 RÉSULTAT :
     → Le fichier HTML sera généré automatiquement
     → Le navigateur s'ouvrira avec la carte interactive
-    → En cas d'échec, ouvrir manuellement : cyclones_reunion_CARTE_COMPLETE_FINALE.html
+
 
 UTILISATION :
     - Cliquer sur les trajectoires de cyclones pour voir les détails
